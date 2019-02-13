@@ -1,3 +1,6 @@
+## This program is inteded to find Two different polygons to envelope a randomly generated n-set of points using convex hull algorithm
+
+
 #include<stdio.h>
 #include <stdlib.h>
 #include <time.h>
