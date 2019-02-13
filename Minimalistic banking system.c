@@ -1,3 +1,6 @@
+//This program is a simple banking system that performs basic transactions using structs.
+
+
 #include <stdio.h>
 #include<stdlib.h>
 #include <time.h>
